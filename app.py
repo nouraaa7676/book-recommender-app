@@ -10,7 +10,6 @@ Original file is located at
 from google.colab import files
 uploaded = files.upload()
 
-!pip install pandas numpy scikit-learn PyPDF2 matplotlib seaborn
 
 import pandas as pd
 import numpy as np
